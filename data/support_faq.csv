@@ -1,0 +1,241 @@
+question,answer,topic
+hi,hello how can i help you today,greeting
+hello,hello how can i help you today,greeting
+hey,hello how can i help you today,greeting
+good morning,hello how can i help you today,greeting
+good evening,hello how can i help you today,greeting
+hello there,hello how can i help you today,greeting
+hey there,hello how can i help you today,greeting
+hi helpdesk,hello how can i help you today,greeting
+thanks,you are welcome happy to help,thanks
+thank you,you are welcome happy to help,thanks
+thanks for helping,you are welcome happy to help,thanks
+thank you so much,you are welcome happy to help,thanks
+that helped thanks,you are welcome happy to help,thanks
+many thanks,you are welcome happy to help,thanks
+appreciate your help,you are welcome happy to help,thanks
+thanks a lot,you are welcome happy to help,thanks
+bye,goodbye have a great day,goodbye
+goodbye,goodbye have a great day,goodbye
+see you later,goodbye have a great day,goodbye
+talk to you later,goodbye have a great day,goodbye
+bye for now,goodbye have a great day,goodbye
+have a nice day,goodbye have a great day,goodbye
+see you,goodbye have a great day,goodbye
+good night,goodbye have a great day,goodbye
+who are you,i am helpdesk ai your support assistant,identity
+what is your name,i am helpdesk ai your support assistant,identity
+tell me your name,i am helpdesk ai your support assistant,identity
+are you a bot,i am helpdesk ai your support assistant,identity
+introduce yourself,i am helpdesk ai your support assistant,identity
+what are you,i am helpdesk ai your support assistant,identity
+who am i talking to,i am helpdesk ai your support assistant,identity
+are you an assistant,i am helpdesk ai your support assistant,identity
+i forgot my password,select forgot password on the login page to reset your password,password
+how do i reset my password,select forgot password on the login page to reset your password,password
+reset password,select forgot password on the login page to reset your password,password
+help me reset my password,select forgot password on the login page to reset your password,password
+my password is lost,select forgot password on the login page to reset your password,password
+cannot remember my password,select forgot password on the login page to reset your password,password
+i need a new password,select forgot password on the login page to reset your password,password
+where can i reset password,select forgot password on the login page to reset your password,password
+i cannot log in,check your email and password then try signing in again,login
+login is not working,check your email and password then try signing in again,login
+i cannot sign in,check your email and password then try signing in again,login
+why does login fail,check your email and password then try signing in again,login
+help with login,check your email and password then try signing in again,login
+my login failed,check your email and password then try signing in again,login
+unable to log in,check your email and password then try signing in again,login
+sign in problem,check your email and password then try signing in again,login
+how do i create an account,select sign up enter your details and verify your email,signup
+create new account,select sign up enter your details and verify your email,signup
+how can i register,select sign up enter your details and verify your email,signup
+help me sign up,select sign up enter your details and verify your email,signup
+i want to register,select sign up enter your details and verify your email,signup
+where can i sign up,select sign up enter your details and verify your email,signup
+account registration help,select sign up enter your details and verify your email,signup
+how to open an account,select sign up enter your details and verify your email,signup
+change my email,open account settings to update your email address,email
+how to update email,open account settings to update your email address,email
+i need to change email address,open account settings to update your email address,email
+update account email,open account settings to update your email address,email
+where can i edit my email,open account settings to update your email address,email
+my email has changed,open account settings to update your email address,email
+how do i change email,open account settings to update your email address,email
+edit email address,open account settings to update your email address,email
+where is my invoice,open billing history to download your invoice,invoice
+download invoice,open billing history to download your invoice,invoice
+i need my invoice,open billing history to download your invoice,invoice
+how to get an invoice,open billing history to download your invoice,invoice
+show my invoices,open billing history to download your invoice,invoice
+where can i download invoice,open billing history to download your invoice,invoice
+find billing invoice,open billing history to download your invoice,invoice
+get payment invoice,open billing history to download your invoice,invoice
+cancel my subscription,open subscription settings and select cancel subscription,cancel
+how do i cancel subscription,open subscription settings and select cancel subscription,cancel
+stop my subscription,open subscription settings and select cancel subscription,cancel
+i want to cancel my plan,open subscription settings and select cancel subscription,cancel
+cancel plan,open subscription settings and select cancel subscription,cancel
+end my subscription,open subscription settings and select cancel subscription,cancel
+where can i cancel,open subscription settings and select cancel subscription,cancel
+stop subscription renewal,open subscription settings and select cancel subscription,cancel
+upgrade my plan,open subscription settings and choose the plan you want,upgrade
+how can i upgrade,open subscription settings and choose the plan you want,upgrade
+change subscription plan,open subscription settings and choose the plan you want,upgrade
+i want a better plan,open subscription settings and choose the plan you want,upgrade
+upgrade subscription,open subscription settings and choose the plan you want,upgrade
+where can i change plans,open subscription settings and choose the plan you want,upgrade
+switch my plan,open subscription settings and choose the plan you want,upgrade
+how to change plan,open subscription settings and choose the plan you want,upgrade
+payment failed,check your card details or try another payment method,payment
+my payment is declined,check your card details or try another payment method,payment
+card payment failed,check your card details or try another payment method,payment
+i cannot make a payment,check your card details or try another payment method,payment
+why was payment rejected,check your card details or try another payment method,payment
+billing payment error,check your card details or try another payment method,payment
+payment is not working,check your card details or try another payment method,payment
+card was declined,check your card details or try another payment method,payment
+i want a refund,contact the support team to check refund eligibility,refund
+how to request refund,contact the support team to check refund eligibility,refund
+refund my payment,contact the support team to check refund eligibility,refund
+can i get a refund,contact the support team to check refund eligibility,refund
+refund request,contact the support team to check refund eligibility,refund
+help with refund,contact the support team to check refund eligibility,refund
+where can i ask for a refund,contact the support team to check refund eligibility,refund
+please return my payment,contact the support team to check refund eligibility,refund
+the app is slow,refresh the page and check your internet connection,slow
+page loading slowly,refresh the page and check your internet connection,slow
+website is very slow,refresh the page and check your internet connection,slow
+app takes too long,refresh the page and check your internet connection,slow
+slow loading problem,refresh the page and check your internet connection,slow
+why is the website slow,refresh the page and check your internet connection,slow
+the page will not load,refresh the page and check your internet connection,slow
+loading is taking forever,refresh the page and check your internet connection,slow
+the app keeps crashing,restart the app and install the latest update,crash
+application crashed,restart the app and install the latest update,crash
+app will not open,restart the app and install the latest update,crash
+my app is broken,restart the app and install the latest update,crash
+app closes suddenly,restart the app and install the latest update,crash
+how to fix app crash,restart the app and install the latest update,crash
+application is not opening,restart the app and install the latest update,crash
+app stopped working,restart the app and install the latest update,crash
+contact support,open the help menu and select contact support,contact
+i need a human agent,open the help menu and select contact support,contact
+talk to a person,open the help menu and select contact support,contact
+how can i reach support,open the help menu and select contact support,contact
+speak to support team,open the help menu and select contact support,contact
+connect me to an agent,open the help menu and select contact support,contact
+customer support contact,open the help menu and select contact support,contact
+i need more help,open the help menu and select contact support,contact
+verification email missing,check your inbox and spam folder for the verification email,verify
+i did not receive verification,check your inbox and spam folder for the verification email,verify
+where is verification email,check your inbox and spam folder for the verification email,verify
+cannot verify my email,check your inbox and spam folder for the verification email,verify
+send verification help,check your inbox and spam folder for the verification email,verify
+email verification problem,check your inbox and spam folder for the verification email,verify
+no verification message,check your inbox and spam folder for the verification email,verify
+verify account email,check your inbox and spam folder for the verification email,verify
+delete my account,open account settings and review the delete account option,delete
+how to remove account,open account settings and review the delete account option,delete
+close my account,open account settings and review the delete account option,delete
+i want to delete account,open account settings and review the delete account option,delete
+account deletion help,open account settings and review the delete account option,delete
+remove my profile,open account settings and review the delete account option,delete
+erase my account,open account settings and review the delete account option,delete
+where can i delete account,open account settings and review the delete account option,delete
+export my data,open data settings and select export to download your data,export
+how do i download my data,open data settings and select export to download your data,export
+download account data,open data settings and select export to download your data,export
+i want my data,open data settings and select export to download your data,export
+data export help,open data settings and select export to download your data,export
+where can i export data,open data settings and select export to download your data,export
+get a copy of my data,open data settings and select export to download your data,export
+save my account data,open data settings and select export to download your data,export
+turn off notifications,open notification settings to change your preferences,notifications
+change notification settings,open notification settings to change your preferences,notifications
+stop email notifications,open notification settings to change your preferences,notifications
+how to manage notifications,open notification settings to change your preferences,notifications
+disable notifications,open notification settings to change your preferences,notifications
+i get too many notifications,open notification settings to change your preferences,notifications
+update notification preferences,open notification settings to change your preferences,notifications
+notification settings help,open notification settings to change your preferences,notifications
+enable two factor authentication,open security settings and enable two factor authentication,security
+how do i secure my account,open security settings and enable two factor authentication,security
+turn on two factor,open security settings and enable two factor authentication,security
+improve account security,open security settings and enable two factor authentication,security
+set up two factor authentication,open security settings and enable two factor authentication,security
+add extra account protection,open security settings and enable two factor authentication,security
+enable account protection,open security settings and enable two factor authentication,security
+security settings help,open security settings and enable two factor authentication,security
+file upload failed,check the file size and format then try uploading again,upload
+i cannot upload a file,check the file size and format then try uploading again,upload
+upload is not working,check the file size and format then try uploading again,upload
+why is upload failing,check the file size and format then try uploading again,upload
+file will not upload,check the file size and format then try uploading again,upload
+upload error,check the file size and format then try uploading again,upload
+help with uploading files,check the file size and format then try uploading again,upload
+my upload was rejected,check the file size and format then try uploading again,upload
+how do i search,use the search bar and enter a relevant keyword,search
+find a document,use the search bar and enter a relevant keyword,search
+where is search,use the search bar and enter a relevant keyword,search
+search for a file,use the search bar and enter a relevant keyword,search
+help me find a document,use the search bar and enter a relevant keyword,search
+how to find files,use the search bar and enter a relevant keyword,search
+use search feature,use the search bar and enter a relevant keyword,search
+search help,use the search bar and enter a relevant keyword,search
+invite a teammate,open team settings and send an invitation using their email,invite
+how to add a team member,open team settings and send an invitation using their email,invite
+add someone to my team,open team settings and send an invitation using their email,invite
+send team invitation,open team settings and send an invitation using their email,invite
+invite my colleague,open team settings and send an invitation using their email,invite
+team member invitation,open team settings and send an invitation using their email,invite
+how can i invite users,open team settings and send an invitation using their email,invite
+add a colleague,open team settings and send an invitation using their email,invite
+how do i log out,open your profile menu and select log out,logout
+sign out of account,open your profile menu and select log out,logout
+where is logout,open your profile menu and select log out,logout
+log me out,open your profile menu and select log out,logout
+i want to sign out,open your profile menu and select log out,logout
+logout help,open your profile menu and select log out,logout
+exit my account,open your profile menu and select log out,logout
+how to sign out,open your profile menu and select log out,logout
+edit my profile,open your profile settings to edit your name and details,profile
+change my name,open your profile settings to edit your name and details,profile
+update profile details,open your profile settings to edit your name and details,profile
+how to edit profile,open your profile settings to edit your name and details,profile
+change display name,open your profile settings to edit your name and details,profile
+update my name,open your profile settings to edit your name and details,profile
+profile settings help,open your profile settings to edit your name and details,profile
+where can i edit my name,open your profile settings to edit your name and details,profile
+change language,open preferences and choose your preferred language,language
+how to switch language,open preferences and choose your preferred language,language
+set app language,open preferences and choose your preferred language,language
+language settings help,open preferences and choose your preferred language,language
+choose another language,open preferences and choose your preferred language,language
+update language preference,open preferences and choose your preferred language,language
+where are language settings,open preferences and choose your preferred language,language
+change display language,open preferences and choose your preferred language,language
+what can you do,i can help with accounts billing and basic troubleshooting,help
+help me,i can help with accounts billing and basic troubleshooting,help
+what can you help with,i can help with accounts billing and basic troubleshooting,help
+show available help,i can help with accounts billing and basic troubleshooting,help
+what services do you provide,i can help with accounts billing and basic troubleshooting,help
+i need assistance,i can help with accounts billing and basic troubleshooting,help
+how can you help,i can help with accounts billing and basic troubleshooting,help
+tell me your features,i can help with accounts billing and basic troubleshooting,help
+page looks broken,clear your browser cache and try opening the page again,browser
+website layout is broken,clear your browser cache and try opening the page again,browser
+browser shows old content,clear your browser cache and try opening the page again,browser
+how to fix browser issue,clear your browser cache and try opening the page again,browser
+page display problem,clear your browser cache and try opening the page again,browser
+old page keeps showing,clear your browser cache and try opening the page again,browser
+browser cache problem,clear your browser cache and try opening the page again,browser
+website formatting is wrong,clear your browser cache and try opening the page again,browser
+is the service down,check the service status page for current incident updates,status
+server not responding,check the service status page for current incident updates,status
+check service status,check the service status page for current incident updates,status
+is there an outage,check the service status page for current incident updates,status
+website is unavailable,check the service status page for current incident updates,status
+system outage,check the service status page for current incident updates,status
+service availability,check the service status page for current incident updates,status
+where are incident updates,check the service status page for current incident updates,status

@@ -1,0 +1,16 @@
+{
+  "config": {
+    "max_words": 15,
+    "seed": 42,
+    "epochs_requested": 100,
+    "batch_size": 32,
+    "learning_rate": 0.003,
+    "patience": 15,
+    "data_sha256": "dc764d7f64ebb73c57e2991139db085e7ca509d7ab51e31b691bc26479184908"
+  },
+  "architecture": {
+    "embedding_dim": 64,
+    "hidden_dim": 128,
+    "dropout": 0.15
+  }
+}

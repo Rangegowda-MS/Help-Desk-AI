@@ -1,0 +1,12 @@
+{
+  "best_epoch": 21,
+  "epochs_completed": 36,
+  "training_pairs": 192,
+  "validation_pairs": 24,
+  "test_pairs": 24,
+  "vocabulary_size": 268,
+  "validation_loss": 0.5441074290859045,
+  "test_loss": 0.5259115695953369,
+  "test_perplexity": 1.692000521832009,
+  "note": "Synthetic FAQ demo; random prompt split includes related paraphrases. Not a production benchmark."
+}

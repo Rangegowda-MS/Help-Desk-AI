@@ -1,0 +1,25 @@
+question,reference,generated,exact_match,ended
+website layout is broken,clear your browser cache and try opening the page again,clear your browser cache and try opening the page again,True,True
+hello,hello how can i help you today,hello how can i help you today,True,True
+i want to register,select sign up enter your details and verify your email,open preferences and choose your preferred language,False,True
+where can i export data,open data settings and select export to download your data,open data settings and select export to download your data,True,True
+where is verification email,check your inbox and spam folder for the verification email,check your inbox and spam folder for the verification email,True,True
+save my account data,open data settings and select export to download your data,open account settings and review the delete account option,False,True
+please return my payment,contact the support team to check refund eligibility,check your email and details try opening the,False,True
+can i get a refund,contact the support team to check refund eligibility,open the help menu and select contact support,False,True
+app closes suddenly,restart the app and install the latest update,restart the app and install the latest update,True,True
+how to change plan,open subscription settings and choose the plan you want,open subscription settings and choose the plan you want,True,True
+update profile details,open your profile settings to edit your name and details,open your profile settings to edit your name and details,True,True
+stop my subscription,open subscription settings and select cancel subscription,open subscription settings and select cancel subscription,True,True
+where are language settings,open preferences and choose your preferred language,open your profile settings and select log out,False,True
+set app language,open preferences and choose your preferred language,open preferences and choose the latest update,False,True
+i need a human agent,open the help menu and select contact support,open the help menu and select contact support,True,True
+where are incident updates,check the service status page for current incident updates,open notification settings to change your preferences,False,True
+bye for now,goodbye have a great day,open your profile settings to edit your name and details,False,True
+invite my colleague,open team settings and send an invitation using their email,open team settings and send an invitation using their email,True,True
+get payment invoice,open billing history to download your invoice,check your card details or try another payment,False,True
+website is very slow,refresh the page and check your internet connection,refresh the page and check your internet connection,True,True
+appreciate your help,you are welcome happy to help,i can help with accounts billing and basic troubleshooting,False,True
+why was payment rejected,check your card details or try another payment method,check your card details or try another payment method,True,True
+search for a file,use the search bar and enter a relevant keyword,use the search bar and enter a relevant keyword,True,True
+where can i ask for a refund,contact the support team to check refund eligibility,open team settings and select cancel subscription,False,True

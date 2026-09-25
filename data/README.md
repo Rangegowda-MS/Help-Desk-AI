@@ -1,0 +1,1 @@
+Original synthetic educational dataset: 240 pairs across 30 support topics. All answers describe a fictional service. Columns: question, answer, topic. Topic is metadata only and is not an input to the network. No external dataset license is needed for these newly authored examples.

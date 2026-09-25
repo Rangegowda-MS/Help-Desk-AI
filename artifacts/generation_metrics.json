@@ -1,0 +1,7 @@
+{
+  "exact_match": 0.5416666666666666,
+  "eos_rate": 1.0,
+  "examples": 24,
+  "beam_width": 1,
+  "note": "Exact match is strict; this tiny synthetic split does not measure real support quality."
+}

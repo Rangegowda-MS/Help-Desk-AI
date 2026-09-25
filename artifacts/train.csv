@@ -1,0 +1,193 @@
+question,answer,topic
+who are you,i am helpdesk ai your support assistant,identity
+hey there,hello how can i help you today,greeting
+billing payment error,check your card details or try another payment method,payment
+why is the website slow,refresh the page and check your internet connection,slow
+the app is slow,refresh the page and check your internet connection,slow
+file will not upload,check the file size and format then try uploading again,upload
+server not responding,check the service status page for current incident updates,status
+switch my plan,open subscription settings and choose the plan you want,upgrade
+thank you,you are welcome happy to help,thanks
+where can i delete account,open account settings and review the delete account option,delete
+my login failed,check your email and password then try signing in again,login
+profile settings help,open your profile settings to edit your name and details,profile
+app will not open,restart the app and install the latest update,crash
+file upload failed,check the file size and format then try uploading again,upload
+application crashed,restart the app and install the latest update,crash
+browser cache problem,clear your browser cache and try opening the page again,browser
+how to add a team member,open team settings and send an invitation using their email,invite
+thanks a lot,you are welcome happy to help,thanks
+turn off notifications,open notification settings to change your preferences,notifications
+connect me to an agent,open the help menu and select contact support,contact
+i need more help,open the help menu and select contact support,contact
+talk to you later,goodbye have a great day,goodbye
+is there an outage,check the service status page for current incident updates,status
+who am i talking to,i am helpdesk ai your support assistant,identity
+how do i search,use the search bar and enter a relevant keyword,search
+get a copy of my data,open data settings and select export to download your data,export
+thanks for helping,you are welcome happy to help,thanks
+change my name,open your profile settings to edit your name and details,profile
+system outage,check the service status page for current incident updates,status
+change notification settings,open notification settings to change your preferences,notifications
+i want a refund,contact the support team to check refund eligibility,refund
+page display problem,clear your browser cache and try opening the page again,browser
+what is your name,i am helpdesk ai your support assistant,identity
+use search feature,use the search bar and enter a relevant keyword,search
+see you later,goodbye have a great day,goodbye
+where can i download invoice,open billing history to download your invoice,invoice
+how do i log out,open your profile menu and select log out,logout
+how to open an account,select sign up enter your details and verify your email,signup
+stop subscription renewal,open subscription settings and select cancel subscription,cancel
+my upload was rejected,check the file size and format then try uploading again,upload
+how to fix browser issue,clear your browser cache and try opening the page again,browser
+the app keeps crashing,restart the app and install the latest update,crash
+i need assistance,i can help with accounts billing and basic troubleshooting,help
+bye,goodbye have a great day,goodbye
+disable notifications,open notification settings to change your preferences,notifications
+i need my invoice,open billing history to download your invoice,invoice
+add extra account protection,open security settings and enable two factor authentication,security
+i need a new password,select forgot password on the login page to reset your password,password
+i want to delete account,open account settings and review the delete account option,delete
+where can i edit my email,open account settings to update your email address,email
+change display name,open your profile settings to edit your name and details,profile
+add someone to my team,open team settings and send an invitation using their email,invite
+where can i edit my name,open your profile settings to edit your name and details,profile
+sign out of account,open your profile menu and select log out,logout
+page looks broken,clear your browser cache and try opening the page again,browser
+how to switch language,open preferences and choose your preferred language,language
+my app is broken,restart the app and install the latest update,crash
+show available help,i can help with accounts billing and basic troubleshooting,help
+how do i cancel subscription,open subscription settings and select cancel subscription,cancel
+delete my account,open account settings and review the delete account option,delete
+card was declined,check your card details or try another payment method,payment
+customer support contact,open the help menu and select contact support,contact
+contact support,open the help menu and select contact support,contact
+how to get an invoice,open billing history to download your invoice,invoice
+help with refund,contact the support team to check refund eligibility,refund
+show my invoices,open billing history to download your invoice,invoice
+slow loading problem,refresh the page and check your internet connection,slow
+upgrade subscription,open subscription settings and choose the plan you want,upgrade
+how to fix app crash,restart the app and install the latest update,crash
+where is logout,open your profile menu and select log out,logout
+find a document,use the search bar and enter a relevant keyword,search
+loading is taking forever,refresh the page and check your internet connection,slow
+what are you,i am helpdesk ai your support assistant,identity
+speak to support team,open the help menu and select contact support,contact
+i want to cancel my plan,open subscription settings and select cancel subscription,cancel
+change subscription plan,open subscription settings and choose the plan you want,upgrade
+hello there,hello how can i help you today,greeting
+change my email,open account settings to update your email address,email
+set up two factor authentication,open security settings and enable two factor authentication,security
+notification settings help,open notification settings to change your preferences,notifications
+how to request refund,contact the support team to check refund eligibility,refund
+download invoice,open billing history to download your invoice,invoice
+choose another language,open preferences and choose your preferred language,language
+change language,open preferences and choose your preferred language,language
+erase my account,open account settings and review the delete account option,delete
+are you an assistant,i am helpdesk ai your support assistant,identity
+that helped thanks,you are welcome happy to help,thanks
+help me reset my password,select forgot password on the login page to reset your password,password
+introduce yourself,i am helpdesk ai your support assistant,identity
+i cannot sign in,check your email and password then try signing in again,login
+tell me your features,i can help with accounts billing and basic troubleshooting,help
+data export help,open data settings and select export to download your data,export
+how do i secure my account,open security settings and enable two factor authentication,security
+help me sign up,select sign up enter your details and verify your email,signup
+how to remove account,open account settings and review the delete account option,delete
+how can i invite users,open team settings and send an invitation using their email,invite
+cancel plan,open subscription settings and select cancel subscription,cancel
+login is not working,check your email and password then try signing in again,login
+turn on two factor,open security settings and enable two factor authentication,security
+download account data,open data settings and select export to download your data,export
+where can i cancel,open subscription settings and select cancel subscription,cancel
+remove my profile,open account settings and review the delete account option,delete
+tell me your name,i am helpdesk ai your support assistant,identity
+website formatting is wrong,clear your browser cache and try opening the page again,browser
+change display language,open preferences and choose your preferred language,language
+service availability,check the service status page for current incident updates,status
+send verification help,check your inbox and spam folder for the verification email,verify
+hi,hello how can i help you today,greeting
+hey,hello how can i help you today,greeting
+end my subscription,open subscription settings and select cancel subscription,cancel
+unable to log in,check your email and password then try signing in again,login
+refund request,contact the support team to check refund eligibility,refund
+app stopped working,restart the app and install the latest update,crash
+export my data,open data settings and select export to download your data,export
+upload error,check the file size and format then try uploading again,upload
+card payment failed,check your card details or try another payment method,payment
+where can i change plans,open subscription settings and choose the plan you want,upgrade
+security settings help,open security settings and enable two factor authentication,security
+update notification preferences,open notification settings to change your preferences,notifications
+refund my payment,contact the support team to check refund eligibility,refund
+my password is lost,select forgot password on the login page to reset your password,password
+account deletion help,open account settings and review the delete account option,delete
+my email has changed,open account settings to update your email address,email
+see you,goodbye have a great day,goodbye
+application is not opening,restart the app and install the latest update,crash
+how to manage notifications,open notification settings to change your preferences,notifications
+i want to sign out,open your profile menu and select log out,logout
+how do i reset my password,select forgot password on the login page to reset your password,password
+thank you so much,you are welcome happy to help,thanks
+check service status,check the service status page for current incident updates,status
+are you a bot,i am helpdesk ai your support assistant,identity
+i want my data,open data settings and select export to download your data,export
+good evening,hello how can i help you today,greeting
+talk to a person,open the help menu and select contact support,contact
+i forgot my password,select forgot password on the login page to reset your password,password
+close my account,open account settings and review the delete account option,delete
+upload is not working,check the file size and format then try uploading again,upload
+how do i change email,open account settings to update your email address,email
+verify account email,check your inbox and spam folder for the verification email,verify
+verification email missing,check your inbox and spam folder for the verification email,verify
+what can you do,i can help with accounts billing and basic troubleshooting,help
+help me find a document,use the search bar and enter a relevant keyword,search
+find billing invoice,open billing history to download your invoice,invoice
+search help,use the search bar and enter a relevant keyword,search
+where is my invoice,open billing history to download your invoice,invoice
+help with login,check your email and password then try signing in again,login
+stop email notifications,open notification settings to change your preferences,notifications
+i cannot log in,check your email and password then try signing in again,login
+how can i reach support,open the help menu and select contact support,contact
+good night,goodbye have a great day,goodbye
+where is search,use the search bar and enter a relevant keyword,search
+logout help,open your profile menu and select log out,logout
+how can i upgrade,open subscription settings and choose the plan you want,upgrade
+where can i reset password,select forgot password on the login page to reset your password,password
+edit my profile,open your profile settings to edit your name and details,profile
+sign in problem,check your email and password then try signing in again,login
+payment is not working,check your card details or try another payment method,payment
+how to find files,use the search bar and enter a relevant keyword,search
+why does login fail,check your email and password then try signing in again,login
+how do i download my data,open data settings and select export to download your data,export
+browser shows old content,clear your browser cache and try opening the page again,browser
+good morning,hello how can i help you today,greeting
+page loading slowly,refresh the page and check your internet connection,slow
+where can i sign up,select sign up enter your details and verify your email,signup
+email verification problem,check your inbox and spam folder for the verification email,verify
+help me,i can help with accounts billing and basic troubleshooting,help
+invite a teammate,open team settings and send an invitation using their email,invite
+how can you help,i can help with accounts billing and basic troubleshooting,help
+create new account,select sign up enter your details and verify your email,signup
+improve account security,open security settings and enable two factor authentication,security
+upgrade my plan,open subscription settings and choose the plan you want,upgrade
+reset password,select forgot password on the login page to reset your password,password
+hi helpdesk,hello how can i help you today,greeting
+why is upload failing,check the file size and format then try uploading again,upload
+the page will not load,refresh the page and check your internet connection,slow
+i cannot make a payment,check your card details or try another payment method,payment
+i want a better plan,open subscription settings and choose the plan you want,upgrade
+update language preference,open preferences and choose your preferred language,language
+what can you help with,i can help with accounts billing and basic troubleshooting,help
+my payment is declined,check your card details or try another payment method,payment
+thanks,you are welcome happy to help,thanks
+many thanks,you are welcome happy to help,thanks
+update account email,open account settings to update your email address,email
+update my name,open your profile settings to edit your name and details,profile
+cannot verify my email,check your inbox and spam folder for the verification email,verify
+goodbye,goodbye have a great day,goodbye
+enable account protection,open security settings and enable two factor authentication,security
+cancel my subscription,open subscription settings and select cancel subscription,cancel
+old page keeps showing,clear your browser cache and try opening the page again,browser
+no verification message,check your inbox and spam folder for the verification email,verify
+log me out,open your profile menu and select log out,logout
+what services do you provide,i can help with accounts billing and basic troubleshooting,help
